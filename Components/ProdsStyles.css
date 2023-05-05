@@ -1,0 +1,148 @@
+.pro1{
+    position: absolute;
+width: 575.14px;
+height: 459.25px;
+left: 147.2px;
+top: 260.08px;
+background: #FAFAF8;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+
+.pro1 .im1{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 10px;
+gap: 10px;
+position: absolute;
+width: 58px;
+height: 26px;
+left: 28.35px;
+top: 20.33px;
+background: #F4F8EC;
+border-radius: 12px;
+}
+
+.pro1 .im2{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 10px;
+gap: 10px;
+
+position: absolute;
+width: 103px;
+height: 26px;
+left: 110.35px;
+top: 20.33px;
+
+/* C2/E */
+
+background: #F4F8EC;
+border-radius: 12px;
+}
+
+.pro1 .im3{
+    position: relative;
+width: 244.92px;
+height: 326.38px;
+left: 180.89px;
+top: 70.96px;
+}
+
+.pro2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 125.94px;
+height: 97.78px;
+left: 155.2px;
+top: 760.06px;
+
+background: #FAFAF8;
+border: 0.5px solid #D9D9D9;
+box-shadow: 0px 0.875922px 1.75184px rgba(0, 0, 0, 0.1);
+border-radius: 3.94165px;
+}
+
+.pro2 .im4{
+    position: absolute;
+width: 65.45px;
+height: 87.21px;
+left: 27.45px;
+top: 10.34px;
+
+}
+
+.prod3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 125.94px;
+height: 97.78px;
+left: 300.2px;
+top: 760.06px;
+
+background: #FAFAF8;
+border: 0.5px solid #D9D9D9;
+box-shadow: 0px 0.875922px 1.75184px rgba(0, 0, 0, 0.1);
+border-radius: 3.94165px;
+}
+
+.prod3 .im5{
+    position: absolute;
+width: 65.45px;
+height: 87.21px;
+left: 27.45px;
+top: 10.34px;
+
+}
+
+.pro4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 125.94px;
+height: 97.78px;
+left: 445.2px;
+top: 760.06px;
+
+background: #FAFAF8;
+border: 0.5px solid #D9D9D9;
+box-shadow: 0px 0.875922px 1.75184px rgba(0, 0, 0, 0.1);
+border-radius: 3.94165px;
+}
+
+.pro4 .im6{
+    position: absolute;
+width: 65.45px;
+height: 87.21px;
+left: 27.45px;
+top: 10.34px;
+
+}
+
+.pro5{
+    box-sizing: border-box;
+
+position: absolute;
+width: 125.94px;
+height: 97.78px;
+left: 590.2px;
+top: 760.06px;
+
+background: #FAFAF8;
+border: 0.5px solid #D9D9D9;
+box-shadow: 0px 0.875922px 1.75184px rgba(0, 0, 0, 0.1);
+border-radius: 3.94165px;
+}
+
+.pro5 .im7{
+    position: absolute;
+width: 65.45px;
+height: 87.21px;
+left: 27.45px;
+top: 10.34px;
+
+}

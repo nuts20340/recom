@@ -1,0 +1,182 @@
+.round{
+    width: 100%;
+    padding:6rem 1rem;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px; 
+
+
+}
+
+.round1 .iimgg{
+    position: absolute;
+left: 3%;
+right: 0%;
+top: 240%;
+bottom: 0%;
+}
+
+.round .imgg1{
+    position: absolute;
+width: 129.22px;
+height: 129.22px;
+left: 275.99px;
+top: 1850px;
+filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.round h5{
+    position: absolute;
+    width: 52px;
+    height: 30px;
+    left: 479.1px;
+    top: 450px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;    
+    letter-spacing: -0.02em;
+    color: #1E1E1E;
+     
+}
+
+
+
+.r1 h5{
+position: absolute;
+width: 163px;
+height: 30px;
+left: 315.19px;
+top:1990.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+
+letter-spacing: -0.02em;
+
+color: #1E1E1E;
+
+}
+
+.round .imgg2{
+    position: absolute;
+width: 129.22px;
+height: 129.22px;
+left: 520.6px;
+top: 1853px;
+filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.r2 h5{
+    position: absolute;
+width: 163px;
+height: 30px;
+left: 508.21px;
+top: 1990.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: -0.02em;
+color: #1E1E1E;
+}
+
+.round .imgg3{
+    position: absolute;
+width: 129.22px;
+height: 129.22px;
+left: 780.1px;
+top: 1853px;
+filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.r3 h5{
+    position: absolute;
+width: 202px;
+height: 30px;
+left: 750.21px;
+top: 1990.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #1E1E1E;
+
+}
+
+.round .imgg4{
+    position: absolute;
+width: 129.22px;
+height: 129.22px;
+left: 1040.21px;
+top: 1853px;
+filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.r4 h5{
+    position: absolute;
+width: 110px;
+height: 30px;
+left: 1050.81px;
+top: 1990.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: -0.02em;
+
+color: #1E1E1E;
+}
+.round .imgg5{
+    
+    position: absolute;
+width: 129.22px;
+height: 129.22px;
+left: 1280.31px;
+top: 1853px;
+filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.r5 h5{
+    position: absolute;
+width: 159px;
+height: 30px;
+left: 1270.42px;
+top: 1990.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: -0.02em;
+
+color: #1E1E1E;
+
+}
+
+.round1 .iimgg1{
+
+    position: absolute;
+    left: 95%;
+    right: 0%;
+    top:240%;
+    bottom: 0%;
+}
